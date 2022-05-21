@@ -4,8 +4,7 @@
 <br>
 <br>
 **Scope of the Project**
-<br> Using alpha messenger, users can send messages to other users, search for other user to text and see who is online. They can create groups and send messages to more than one user simultaneously.
-<br>
+<br> Using alpha messenger, users can send messages to other users, search for another user to text and see who is online.<br>
 
 **Stakeholders**
 <br> **Application Stakeholders:**
